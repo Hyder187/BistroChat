@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513331318593",
+    "firebase_url": "https://bistro-chat-4c09c.firebaseio.com",
+    "project_id": "bistro-chat-4c09c",
+    "storage_bucket": "bistro-chat-4c09c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513331318593:android:369fd66ac73b0080551bc0",
+        "android_client_info": {
+          "package_name": "com.mustafa.bistrochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513331318593-3hi4q4bblkc33kke2db6ge8fern8nob4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Je5llI80GKcQREVvq5xu6aVCL_QK6hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513331318593-3hi4q4bblkc33kke2db6ge8fern8nob4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
